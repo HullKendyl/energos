@@ -3,8 +3,7 @@
 
 ### Final group project for We Can Code IT Summer 2020
 
-### Goal of project was to create a SPA to empower users to intuitively design and customize their own personalized vision boards to help them envision and 
-reach their goals. They can s, quality images, and other design features to inspire their aspirations.
+### Goal of project was to create a SPA to empower users to intuitively design and customize their own personalized vision boards to help them envision and reach their goals.
 
 Users can:
 
